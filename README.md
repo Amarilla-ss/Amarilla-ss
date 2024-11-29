@@ -1,14 +1,18 @@
-# Hola, mi nombre es Manuela Alvarez 
-**Estudio actualmente para ser software developer, me gusta mucho la innovacion y aprender cosas nuevas todos los dias**
+# Manuela, Alvarez Chaves
+### Hola, mi nombre es Manuela Alvarez 
+
+**Actualmente estudio para ser software developer, me gusta mucho la innovacion y aprender cosas nuevas todos los dias**
+---
 ##  Idiomas
 **1. Ingles C1**
 
 **2. Español Nativo**
-### Sobre mi
-**- Me gusta mucho la fotografia y la moda**
+---
+## Sobre mi
 
-**-Mis hobbies a parte de estudiar y apredender a programar son los viajes y ayudar animales**
-
-[Instagram] (https://www.instagram.com/amarilla.sinnombre?igsh=dTZ2YzNkem9wejJy&utm_source=qr)
+- Me gusta mucho la fotografia y la moda
+- Soy estudiante de BIT
+## Aprendizaje 
+<img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-1713908508689.webp"  width="80px" height="80px"></img>
 
 
